@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/54884571/222925980-beb9ca2b-0ccf-40a1-
 
 <br>
 
-Contributers
+Contributors
 
 - Beste Şengül
 - Furkan Erdi
