@@ -13,8 +13,6 @@ Contributors
 - Beste Şengül
 - Furkan Erdi
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+<a href = "https://github.com/Project-Daliware/daliware/contributors">
   <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
 </a>
-
-Made with [contributors-img](https://contrib.rocks).
