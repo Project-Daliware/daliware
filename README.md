@@ -4,6 +4,7 @@ A technology written with mediapipe, tensorflow model, dall-e-2 libraries and Da
 
 https://user-images.githubusercontent.com/54884571/222925980-beb9ca2b-0ccf-40a1-9ce3-28bdee54e144.mp4
 
+<hr>
 
 Contributers
 
