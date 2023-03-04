@@ -13,6 +13,6 @@ Contributors
 - Beste Şengül
 - Furkan Erdi
 
-<a href = "https://github.com/Project-Daliware/daliware/contributors">
+<a href = "https://github.com/orgs/Project-Daliware/people">
   <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
 </a>
